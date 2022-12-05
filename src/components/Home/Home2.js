@@ -19,37 +19,33 @@ function Home2() {
               Let Me <span className="purple"> Introduce </span> Myself
             </h1>
             <p className="home-about-body">
-              Since I was a kid, I have loved and excelled in programming, mathematics, natural sciences, data analysis, electronics, and problem solving.
+              I am a full stack software engineer with {new Date().getFullYear() - 2011} years of progressive experience in software development.
+              I lead several teams to develop technological solutions that will work with the architecture already in place in various industries, including retial,
+              banking, airline cargo handling, and maritime cargo booking.
               <br />
               <br />I am experienced in programming languages including
               <i>
-                <b className="purple"> Java, Python, C++, JavaScript</b>
+                <b className="purple"> Java, JavaScript, Node JS, Ansible, Terraform, Bash, Shell, HTML, CSS</b>
               </i>
-              , and SQL dialects including
+              , and SQL and No SQL dialects including
               <i>
-                <b className="purple"> SQL Server, Oracle PL/SQL, PostgreSQL, and MySQL</b>.
+                <b className="purple"> SQL Server, Oracle PL/SQL, PostgreSQL, MySQL, MongoDB, and CouchDB</b>.
+              </i>
+              <br />I am also have experienced using different frameworks and architectural style such as 
+              <i>
+                <b className="purple"> Spring, Springboot, REST, SOAP, Microservice, ReactJS, React Native, Express, Maven, Expo Dev</b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I also founded/co-founded 2 startup company -  &nbsp;
               <i>
-                <b className="purple">...placeholder </b> and
-                also in areas related to{" "}
+                <b className="purple">a personal computer rent-to-own solution</b> and {" "}
                 <b className="purple">
-                  ....placeholder
+                  a financial technology which is a wealth-building-tool that helps monitor financial health, track goal progress, and share finances to others.
                 </b>
               </i>
               <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with
-              <i>
-                <b className="purple"> modern Javascript frameworks</b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> Node.js and React.js</b>
-              </i>
+
             </p>
           </Col>
           <Col md={4} className="myAvatar">
@@ -67,7 +63,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/beebus"
+                  href="https://github.com/johnjavier"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +73,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/michael-beebower/"
+                  href="https://www.linkedin.com/in/john-kevin-javier-83b70263/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
