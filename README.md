@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0.0<br/>
-  <a href="https://portfolio-kbbapahbm-johnjavier.vercel.app/" target="_blank">https://portfolio-johnjavier.vercel.app</a>
+  <a href="https://portfolio-johnjavier.vercel.app" target="_blank">https://portfolio-johnjavier.vercel.app</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/john-javier-website-snapshot.png" />
@@ -21,12 +21,12 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/beebus/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/johnjavier/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/beebus/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/johnjavier/Portfolio/issues">Request Feature</a>
 </h3>
 
-Welcome to my portfolio website, <a href="https://portfolio-kbbapahbm-johnjavier.vercel.app/" target="_blank">https://portfolio-johnjavier.vercel.app</a>, where I can showcase my software development projects, tell you more about me, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
+Welcome to my portfolio website, <a href="https://portfolio-johnjavier.vercel.app" target="_blank">https://portfolio-johnjavier.vercel.app</a>, where I can showcase my software development projects, tell you more about me, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
 
 ## Built With
 
