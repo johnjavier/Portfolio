@@ -3,7 +3,7 @@
   <a href="https://portfolio-kbbapahbm-johnjavier.vercel.app/" target="_blank">https://portfolio-kbbapahbm-johnjavier.vercel.app/</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/john-javier-website-snapshot.png" />
 </div>
 
 <br/>
