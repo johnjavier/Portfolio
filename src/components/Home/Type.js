@@ -9,6 +9,7 @@ function Type() {
           "Full Stack Software Engineer",
           "Devops Engineer",
           "Blockchain Application Developer",
+          "Java Developer"
         ],
         autoStart: true,
         loop: true,
