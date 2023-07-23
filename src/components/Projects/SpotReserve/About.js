@@ -2,6 +2,7 @@ import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import spotReserveDashboard from "../../../Assets/SpotReserve/spotreserve_dashboard.png";
 import spotReserveDrawer from "../../../Assets/SpotReserve/spotreserve_drawer.png";
+import { Link } from "react-router-dom";
 
 function About(){
     return (
@@ -33,7 +34,7 @@ function About(){
                         <li> Manage Parking Slot for Car and Motor</li>
                     </ul>
                 </p>
-                <a class="nav-link" href="#scrollspyHeading1">Privacy Policy</a>
+                <Link to="/spot-reserve/privacy-policy" className="nav-link"> Privacy Policy</Link>
                 </Row>
             </Container>
         </Container>

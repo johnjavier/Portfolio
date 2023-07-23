@@ -7,6 +7,7 @@ import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import AboutSpotReserve from "./components/Projects/SpotReserve/About";
+import PrivacyPolicy from "./components/Projects/SpotReserve/PrivacyPolicy";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./style.css";
 import "./App.css";
@@ -37,6 +38,7 @@ function App() {
           <Route path="/about" component={About} />
           <Route path="/resume" component={Resume} />
           <Route path="/spot-reserve/about" component={AboutSpotReserve} />
+          <Route path="/spot-reserve/privacy-policy" component={PrivacyPolicy} />
         </Switch>
         <Footer />
       </div>
